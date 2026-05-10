@@ -4,7 +4,6 @@ Synapse is a high-performance, aesthetically pleasing spaced-repetition learning
 
 ![Synapse Preview](preview.png)
 
-> **Note**: To make this preview "your own", take a screenshot of the app running in your browser, save it as `preview.png` in the root of this project, and then update the link above to point to your file: `![Synapse Preview](./preview.png)`
 
 
 ## Features
