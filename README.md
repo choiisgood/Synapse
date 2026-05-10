@@ -1,13 +1,13 @@
-# Synapse 🧠
+# Synapse 
 
 Synapse is a high-performance, aesthetically pleasing spaced-repetition learning platform. Designed for students and lifelong learners who want a distraction-free environment to master complex topics efficiently.
 
-![Synapse Preview](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?auto=format&fit=crop&q=80&w=2070)
+![Synapse Preview](preview.png)
 
 > **Note**: To make this preview "your own", take a screenshot of the app running in your browser, save it as `preview.png` in the root of this project, and then update the link above to point to your file: `![Synapse Preview](./preview.png)`
 
 
-## ✨ Features
+## Features
 
 - **Dynamic Library**: Organize your study materials into custom decks with ease.
 - **Mastery Study Mode**: Intelligent spaced-repetition interface with fluid animations.
@@ -15,7 +15,7 @@ Synapse is a high-performance, aesthetically pleasing spaced-repetition learning
 - **Responsive Design**: Study on any device with a UI optimized for both speed and clarity.
 - **SQLite Powered**: Fast, local data persistence for your decks and cards.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend**: React 18, Vite, Tailwind CSS
 - **Animations**: Framer Motion
@@ -23,7 +23,7 @@ Synapse is a high-performance, aesthetically pleasing spaced-repetition learning
 - **Backend**: Node.js (Express)
 - **Database**: SQLite (better-sqlite3)
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -49,7 +49,7 @@ Synapse is a high-performance, aesthetically pleasing spaced-repetition learning
 
 4. Open your browser and navigate to `http://localhost:3000`
 
-## 📖 How to Use
+## How to Use
 
 1. **Create a Deck**: Go to the Library and click "New Deck". You can add initial cards right there.
 2. **Add Cards**: Use the "Add Card" button on any deck to add cards individually or use "Bulk Paste" for high-volume entry.
